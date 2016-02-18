@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E75B657E-6520-417A-9BFF-DA753A92AAE1}</ProjectGuid>
     <RootNamespace>Assign3ANN</RootNamespace>
+    <ProjectName>ML Assign1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
