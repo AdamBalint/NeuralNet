@@ -1,2 +1,0 @@
-# NeuralNet
-Neaural Net
